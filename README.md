@@ -18,3 +18,7 @@ or
 
 # Charts
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.0.
+
+#SCREENSHOTS
+
+<img width="462" alt="Screenshot 2023-03-16 at 6 50 42 PM" src="https://user-images.githubusercontent.com/96340665/225635444-422d1222-ea51-4e60-b6a5-282aedafb055.png">
