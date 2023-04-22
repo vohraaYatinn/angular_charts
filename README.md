@@ -16,6 +16,8 @@ www.instagram.com/vohra_yatin
 or
 @vohra_yatin
 
+email: vohrayatin9@gmail.com
+
 # Charts
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.0.
 
